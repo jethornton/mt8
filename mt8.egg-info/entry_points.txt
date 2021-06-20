@@ -1,0 +1,6 @@
+[gui_scripts]
+mt8 = mt8:main
+
+[qtpyvcp.vcp]
+mt8 = mt8
+

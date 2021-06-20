@@ -1,0 +1,16 @@
+MANIFEST.in
+README.md
+setup.py
+mt8/__init__.py
+mt8/__init__.py.bak
+mt8/config.yml
+mt8/config.yml.bak
+mt8/mainwindow.py
+mt8.egg-info/PKG-INFO
+mt8.egg-info/SOURCES.txt
+mt8.egg-info/dependency_links.txt
+mt8.egg-info/entry_points.txt
+mt8.egg-info/top_level.txt
+mt8/resources/resources.qrc
+mt8/ui/mainwindow.ui
+mt8/ui/style.qss
